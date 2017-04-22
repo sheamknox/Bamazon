@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "amazon ripoff",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheamknox/Bamazon.git"
+  },
+  "author": "Shea Knox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheamknox/Bamazon/issues"
+  },
+  "homepage": "https://github.com/sheamknox/Bamazon#readme"
+}
